@@ -1,7 +1,4 @@
 Esta es la historia de alguien 
-
-Alguien tiene tanta edad y nació en algún lugar
-
-Hoy hablaremos de historia
+Era este el archivo a modificar
 
 
